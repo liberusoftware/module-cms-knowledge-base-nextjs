@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-knowledge-base-nextjs",
+  "capabilityKey": "planned:cms:knowledge-base",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-knowledge-base-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/knowledge-base.md",
+  "presentationPlan": "projects/cms/nextjs/knowledge-base.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
